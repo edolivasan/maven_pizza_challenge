@@ -20,7 +20,11 @@ Thanks in advance,
 
 Mario Maven (Manager, Plato's Pizza)
 
+# Your task
+
 For this challenge, your task is to build a single-page dashboard based on Mario's email to help him improve the restaurant's operations.
+
+# Links
 
 For more information about challenge: https://www.mavenanalytics.io/blog/maven-pizza-challenge
 
