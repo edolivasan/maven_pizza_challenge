@@ -26,6 +26,6 @@ For this challenge, your task is to build a single-page dashboard based on Mario
 
 # Links
 
-For more information about challenge: https://www.mavenanalytics.io/blog/maven-pizza-challenge
-
 Publication submitted: https://www.linkedin.com/posts/edolivasan_maven-pizza-challenge-dashboard-activity-6992206623754625024-90Sg?utm_source=share&utm_medium=member_desktop
+
+For more information about challenge: https://www.mavenanalytics.io/blog/maven-pizza-challenge
