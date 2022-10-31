@@ -1,4 +1,4 @@
-# maven_pizza_challenge
+# Background
 
 For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:
 
@@ -22,4 +22,6 @@ Mario Maven (Manager, Plato's Pizza)
 
 For this challenge, your task is to build a single-page dashboard based on Mario's email to help him improve the restaurant's operations.
 
-For more information about the Maven Pizza Challenge, check this site: https://www.mavenanalytics.io/blog/maven-pizza-challenge
+For more information about challenge: https://www.mavenanalytics.io/blog/maven-pizza-challenge
+
+Publication submitted: https://www.linkedin.com/posts/edolivasan_maven-pizza-challenge-dashboard-activity-6992206623754625024-90Sg?utm_source=share&utm_medium=member_desktop
